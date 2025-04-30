@@ -14,8 +14,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 ```
 /*
 Program to implement N-Queen problem using backtracking.
-Developed by: ArunKumar.T
-Register Number:  212222040017
+Developed by: Praveen V
+Register Number:  212222040121
 */
 ```
 ```python
